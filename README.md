@@ -1,6 +1,6 @@
 # Leads Tracker Chrome Extension
 
-Chrome extensions are the programs that enhance the Chrome Browser experience.
+Chrome extensions are the programs that enhance user's Chrome Browser experience.
 Sales teams spend countless hours tracking down their leads(potential clients or customers) or sourcing leads and they 
 look for people online who are interested in their product and they keep saving the leads. So, the chrome extension that I will built wasa tool for these people online so that when they open any social media site(LinkedIn, Twitter,
 Facebook, Github, etc.) they can track and save their leads.
